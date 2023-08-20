@@ -1,0 +1,11 @@
+1. git init
+git remote add origin 
+mkdir 
+cd
+touch 
+git add .
+git commit -m
+git push origin master
+git checkout main
+git branch
+cp
